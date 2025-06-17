@@ -11,6 +11,7 @@ LALU KITA JUGA DAPAT MEMANTAU TRAJECTORY A ATAU TRAJECTORY B DENGAN
 "streamlit run Trajectory_A.py" ATAU   "streamlit run Trajectory_B.py"
 
 ATAU KALIAN JUGA BISA MENGAKSES SECARA ONLINE DI STREAMLIT DENGAN LINK BERIKUT:
+
 Trajectory_A = https://trejectorya-a.streamlit.app/
 
 Trajectory_B = https://trajectory-b.streamlit.app/
