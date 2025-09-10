@@ -4,10 +4,10 @@ import random
 from datetime import datetime
 
 # Konfigurasi Back4App
-URL = "https://parseapi.back4app.com/classes/backend_trial"
+URL = "https://parseapi.back4app.com/classes/kki_25"
 HEADERS = {
-    'X-Parse-Application-Id': 'EvdYX9DzGQFfIjgNHLKitEtnPrc6f0Ebo7QkpcoV',
-    'X-Parse-REST-API-Key'  : 'I5p146Jcbyq1KKQZkLC4y1G4pY0De1RAR9rjUYVz',
+    'X-Parse-Application-Id': 'vuYjV2nmBIiKkc1AbXx2f8qJmTyPQF8MkBDAHbr7',
+    'X-Parse-REST-API-Key'  : 'ae47mM5ZIj9NXvUUADNa0wYWhLibdBL5PuTCuVJ4',
     'Content-Type': 'application/json',
 }
 
